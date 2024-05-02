@@ -1,10 +1,10 @@
 # Webdriverio_Amazon
 Webdriverio used to automate amazon application
 
-PPT About Webdriverio for amazon application
+**PPT About Webdriverio for amazon application**
 
 
-[Webdriverio_Amazon.pptx](https://github.com/ShaliniBandi/Webdriverio_Amazon/files/15191395/Webdriverio_Amazon.pptx)
+**[Webdriverio_Amazon.pptx](https://github.com/ShaliniBandi/Webdriverio_Amazon/files/15191395/Webdriverio_Amazon.pptx)**
 
 Screenshots of Allure Report
 ![image](https://github.com/ShaliniBandi/Webdriverio_Amazon/assets/164349312/e21f5473-4de1-45c6-8988-072e81d6fc27)
